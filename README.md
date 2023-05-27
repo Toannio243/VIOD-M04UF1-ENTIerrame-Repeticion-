@@ -12,9 +12,11 @@ JavaScript es como la electricidad que alimenta y da vida a esa casa. Es un leng
 En resumen, HTML es el lenguaje para estructurar el contenido, CSS es el lenguaje para dar estilo y diseño, y JavaScript es el lenguaje para agregar interactividad y funcionalidad a una página web. Estos tres lenguajes trabajan juntos para crear experiencias web asombrosas y permiten a los desarrolladores como yo construir sitios web y aplicaciones web dinámicas y atractivas.
 
 ¿Qué es el formato Markdown?
+
 Markdown es un formato de texto sencillo que te permite dar formato al contenido de manera fácil y rápida sin necesidad de utilizar etiquetas HTML complicadas. Puedes agregar encabezados, listas, enlaces y otros elementos con una sintaxis simple. Es útil para escribir documentos y publicaciones con estilo, especialmente en entornos de programación como GitHub.
 
 ¿Qué es el formato JSON? ¿Cómo se convierte un objeto a JSON? ¿Y JSON a un objeto?
+
 JSON (JavaScript Object Notation) es un formato utilizado para intercambiar datos entre aplicaciones. Convierte objetos a JSON para transmitirlos o almacenarlos. El JSON es una cadena de texto con una estructura similar a un diccionario, donde las propiedades del objeto se convierten en claves y sus valores correspondientes se asignan a esas claves.
 
 Para convertir un objeto a JSON, utiliza una función o método proporcionado por tu lenguaje de programación. Esto transforma el objeto en una cadena JSON legible. Para hacer lo contrario, es decir, convertir JSON a un objeto, también se usa una función o método que interpreta la cadena JSON y crea un objeto con las propiedades correspondientes.
